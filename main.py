@@ -10,7 +10,7 @@ def encode(password):
         encoded += str(digit)
     return encoded
 
-
+# Function works - Shuvethan
 def decode(password):
     decoded = ""
     for i in password:
